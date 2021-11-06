@@ -1,3 +1,7 @@
+https://github.com/ozanerturk/covid19-turkey-api projesinden veriler alınmıştır.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
